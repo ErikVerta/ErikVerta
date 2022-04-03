@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErikVerta
 - 👀 I’m interested in programming and solving problems.
 - 🌱 I’m currently studying .NET development
-- - 📫 You can reach me on: https://www.linkedin.com/in/erik-verta/
+- 📫 You can reach me on: https://www.linkedin.com/in/erik-verta/
 ## Languages
 * c#
 * html
