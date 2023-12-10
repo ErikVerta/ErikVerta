@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ErikVerta
 - 👀 I’m interested in programming and solving problems.
-- 🌱 I’m currently looking for new opportunities
 - [LinkedIn](https://www.linkedin.com/in/erik-verta/)
 - [Portfolio](https://github.com/ErikVerta/Portfolio-Erik-Verta)
 ## TechStack
